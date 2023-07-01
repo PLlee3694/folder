@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "debug.h": "c",
+        "dwtypes.h": "c",
+        "mprmessage.h": "c",
+        "mac.h": "c",
+        "locodeck.h": "c",
+        "hello_struct.h": "c",
+        "adhocdeck.h": "c",
+        "libdw3000.h": "c",
+        "stdlib.h": "c"
+    }
+}
